@@ -1,0 +1,104 @@
+body{
+    background-image: url(z6.jpg);
+    background-position:100%;
+}
+/* form1 */
+.zz1{
+    display: block;
+}
+.aa1{
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px solid rgb(238, 86, 11);
+    display: block;
+}
+.zz1{
+width: 100%;
+height: 150px;
+margin: 50px auto;
+background-image: url(z5.jpg);
+padding: 5px;
+border: 1px solid rgb(238, 86, 11);
+}
+p{
+    font-size: 20px;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+.zss1{
+    color: rgb(255, 255, 255);
+    margin: auto ;
+    background-color: rgb(0, 0, 0);
+ 
+}
+.zss2{
+    color: rgb(255, 255, 255);
+    margin: auto ;
+    background-color: rgb(0, 0, 0);
+   
+}
+/* form2 */
+.zz2{
+    height: 1000px;
+    width: 500px;
+    display: none;
+    margin: 10px auto;
+    background-image: url(z5.jpg);
+    padding: 5px;
+    border: 1px solid rgb(238, 86, 11);
+}
+.zss3{
+    color: rgb(255, 255, 255);
+    margin: auto ;
+    background-color: rgb(0, 0, 0);
+  
+}
+/* form3 */
+.zuu3{ 
+    height: 400px;
+    width: 400px;
+    display: none;
+    margin: 10px auto;
+    background-image: url(z5.jpg);
+    padding: 5px;
+    border: 1px solid rgb(238, 86, 11);
+}
+.ss1{
+    font-size: 25px;
+    margin: 50px auto;
+    text-align: center;
+           }
+ .ss2{
+    font-size: 20px;
+     margin: auto;
+    text-align: center;
+ }
+.ss3{
+            color: rgb(255, 255, 255);
+            margin: auto ;
+            background-color: rgb(0, 0, 0);
+            display: none;
+           
+ }
+/* form3 */
+.ss1{
+    height: 400px;
+    width: 400px;
+    display: none;
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px solid rgb(238, 86, 11);
+
+
+
+
+
+
+
+
+
+
